@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @glorymuindisi
+- 👀 I’m interested in computer engineering and programming
+- 🌱 I’m currently learning machine learning and python
+- 💞️ I’m looking to collaborate on machine learning and maybe programming projrcts in c# and python
+- 📫 You can reach me at gmuindisi@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: comedy-horror is the worst movie genre
